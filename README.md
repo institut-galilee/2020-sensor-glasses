@@ -14,3 +14,6 @@ Fonction secondaire : Reconnaissance d'obstacle.
  
  -Camion oculaire pour la détection d'obstacle avec un capteur ultras-son
  capteur : hc-SR04
+
+
+18/11/2020 remise  de létat de l'art première version dans l'onglet doc
